@@ -1,5 +1,5 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-![alt text](https://github.com/mfoyedele/mfoyedele/blob/main/mfoprofile.png?raw=true)
+![alt text](https://github.com/mfoyedele/mfoyedele/blob/main/mfoyedeleprofile.png?raw=true)
 <h1 align="center">Hi <img src="https://github.com/mfoyedele/mfoyedele/blob/main/wave.gif" width="30px">, I'm Musa Funso Oyedele</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
@@ -17,7 +17,7 @@
       <h3 align="left">Connect with me:</h3>
       <p align="left">
       <a href="https://www.linkedin.com/in/musa-funso-oyedele-14b262195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musa-funso-oyedele" height="30" width="40" /></a>
-      <a href="https://twitter.com/realfunso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mfoyedele" height="30" width="40" /></a>
+      <a href="https://twitter.com/realfunso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realfunso" height="30" width="40" /></a>
       <a href="https://web.facebook.com/realfunso?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mfoyedele" height="30" width="40" /></a>
       <a href="https://instagram.com/realfunso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfoyedele" height="30" width="40" /></a>
       </p>
@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-<p align="center"> <a href="https://twitter.com/mfoyedele" target="blank"><img src="https://img.shields.io/twitter/follow/mfoyedele?logo=twitter&style=for-the-badge" alt="mfoyedele" /></a> </p>
+<p align="center"> <a href="https://twitter.com/realfunso" target="blank"><img src="https://img.shields.io/twitter/follow/realfunso?logo=twitter&style=for-the-badge" alt="realfunso" /></a> </p>
 
 ## My Github Stats:
 
