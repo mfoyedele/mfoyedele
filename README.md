@@ -11,7 +11,7 @@
       <p>- 🌱 I’m currently learning <b>Data Structures and Algorithms</b></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto:musaoyedele3@gmail.com alt=email>musaoyedele3@gmail.com</a></b></p>
-      <p>- ⚡ Fun fact: <b>Software Engineer at Tranter IT Infrastructure Services Limited (Tranter IT), Lagos</b></p>
+      <p>- ⚡ Fun fact: <b>Software Engineer at Tranter IT Infrastructure Services Limited (Tranter IT), Lagos.</b></p>
     </td>
     <td>
       <h3 align="left">Connect with me:</h3>
