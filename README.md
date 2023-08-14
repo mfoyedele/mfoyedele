@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <p>- 🔭 I’m currently working on <b>a clone of the AirBnB web app</b></p>
+      <p>- 🔭 I’m currently working on <b>an Internet of Things platform</b></p>
       <p>- 🌱 I’m currently learning <b>Data Structures and Algorithms</b></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto:musaoyedele3@gmail.com alt=email>musaoyedele3@gmail.com</a></b></p>
