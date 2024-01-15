@@ -57,8 +57,7 @@
   </tr>
 </table>
 
-## GitHub Activity Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mfoyedele&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfoyedele" alt="mfoyedele" /></a> </p>
 
 <p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=mfoyedele&label=Profile%20views&color=0e75b6&style=flat" alt="mfoyedele" /> </p>
 
